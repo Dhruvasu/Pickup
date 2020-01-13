@@ -1,6 +1,4 @@
-## WE are asking for a 24 hour extension. As such please use the last commit made before 10pm on Wednesday Dec 4th for grading purposes.
-
-# team43  
+# Pickup
 ## Access the app here: https://damp-coast-31192.herokuapp.com/
 
 Website for Pickup Games
